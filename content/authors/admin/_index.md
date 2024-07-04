@@ -30,12 +30,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:anapaulaarmendariz99@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/aparmendariz
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ana-armendariz-pacheco
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -47,19 +45,19 @@ interests:
   - Data Analytics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Economics and Finance
+    institution: University of St Gallen (Switzerland)
+    date_start: 20124-08-01
+    date_end: 2027-08-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Msc in Data Analytics and Economics
+    institution: University of Fribourg (Switzerland)
+    date_start: 2022-09-01
+    date_end: 2024-05-01
     summary: |
       GPA: 3.8/4.0
 
@@ -67,8 +65,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Economics
+    institution: Universidad de las Américas (Ecuador)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
