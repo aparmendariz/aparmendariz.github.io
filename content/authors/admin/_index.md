@@ -1,13 +1,10 @@
 ---
 # Display name
-title: PhD student Ana Armendariz
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Ana Armendariz
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ana Paula
+last_name: Armendariz Pacheco
 
 # Status emoji
 status:
@@ -20,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
