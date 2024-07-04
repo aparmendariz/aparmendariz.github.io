@@ -46,7 +46,7 @@ interests:
 
 education:
   - area: PhD in Economics and Finance
-    institution: University of St Gallen (Switzerland)
+    institution: University of St Gallen
     date_start: 20124-08-01
     date_end: 2027-08-01
     summary: |
@@ -55,7 +55,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Msc in Data Analytics and Economics
-    institution: University of Fribourg (Switzerland)
+    institution: University of Fribourg
     date_start: 2022-09-01
     date_end: 2024-05-01
     summary: |
