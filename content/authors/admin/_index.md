@@ -49,8 +49,8 @@ interests:
 education:
   - area: PhD Student in Economics and Finance
     institution: University of St Gallen
-    date_start: 01-08-2023
-    date_end: 01-08-2027
+    date_start: 2024-08-01
+    date_end: 2027-08-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
