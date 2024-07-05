@@ -58,7 +58,7 @@ education:
       url: 'https://example.com'
   - area: Msc Data Analytics and Economics
     institution: University of Fribourg
-    date_start: 2022-09-01
+    date_start: 2021-09-01
     date_end: 2023-05-01
     summary: |
       GPA: 3.8/4.0
@@ -67,10 +67,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Economics
+    institution: Universidad de las Americas
+    date_start: 2017-09-01
+    date_end: 2021-08-01
     summary: |
       GPA: 3.4/4.0
       
