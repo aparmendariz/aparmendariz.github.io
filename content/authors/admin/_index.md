@@ -47,8 +47,8 @@ interests:
   - Data Analytics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Student in Economics and Finance
+    institution: University of St Gallen
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
