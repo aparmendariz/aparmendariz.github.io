@@ -18,4 +18,4 @@ Feel free to reach out to me via [email](anapaula.armendarizpacheco@unisg.ch) fo
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ana-armendariz-pacheco)
+- LinkedIn: [](https://www.linkedin.com/in/ana-armendariz-pacheco)
