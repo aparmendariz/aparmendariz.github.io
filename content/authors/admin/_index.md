@@ -90,7 +90,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: Data Analyst intern
     company_name: X
     company_url: ''
     company_logo: ''
@@ -137,12 +137,14 @@ skills:
         icon: camera
 
 languages:
+  - name: Spanish
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
+  - name: French
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Russian
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -178,4 +180,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an economist with an MSc in Data Analytics and currently pursuing a PhD in Economics. My research interests focus on Causal Machine Learning and Applied Econometrics. I am particularly interested in causal effects. 
