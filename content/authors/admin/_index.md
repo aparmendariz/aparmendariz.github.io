@@ -99,7 +99,7 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Monthly reports of key KPIs.
+      - Monthly reports of key KPI
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -157,7 +157,7 @@ awards:
     date: '2020-01-01'
     awarder: Universidad de las Americas
     summary: |
-      Best GPA of the Economics bachelor cohort. 
+      Best GPA of the Economics bachelor cohort
 ---
 
 ## About Me
