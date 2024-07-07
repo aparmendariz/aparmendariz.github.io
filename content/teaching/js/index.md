@@ -1,6 +1,6 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: Non Academic
+summary: Sort of personal blog :) 
 date: 2023-10-24
 type: docs
 math: false
