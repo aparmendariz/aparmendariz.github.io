@@ -50,7 +50,7 @@ education:
   - area: PhD Student in Economics and Finance
     institution: University of St Gallen
     date_start: 2024-08-01
-    date_end: 2027-08-01
+    date_end: ''
     # summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -76,11 +76,11 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-07-01
-    date_end: ''
+    date_end: '2023-06-01'
     summary: |2-
       Responsibilities include:
-      - Data collection
-      - Literature review
+      - Mobile application development
+      - Event management
   - position: Research Assistant
     company_name: University of Fribourg
     company_url: ''
@@ -128,13 +128,13 @@ skills:
 #        icon: person-simple-walk
 
 languages:
-  - name: Spanish
+  - name: Spanish (Mother tongue)
     percent: 100
-  - name: English
+  - name: English (IELTS C1)
     percent: 100
-  - name: French
+  - name: French (DELF B2)
     percent: 75
-  - name: Russian
+  - name: Russian (B1)
     percent: 50
 
 # Awards.
@@ -142,15 +142,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Aschinger Prize
+    date: '2023-09-01'
+    awarder: University of Fribourg
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      Prize for academic achievement among Latin American students
+  - title: José Corsino Cárdenas Research Prize, Second place
     date: '2023-07-01'
     awarder: edX
     icon: edx
