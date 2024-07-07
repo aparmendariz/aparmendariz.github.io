@@ -6,11 +6,18 @@ type: docs
 math: false
 ---
 
+## August 2024
+
+
 ## June 2024
 
 - Internal Hut Seminar ⛰️
+  
+## June 2023
 
-## August 2024
+- Internal Hut Seminar ⛰️
+
+
 
 
 
