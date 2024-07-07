@@ -56,7 +56,7 @@ education:
     # button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: Msc Data Analytics and Economics
+  - area: MSc Data Analytics and Economics
     institution: University of Fribourg
     date_start: 2021-09-01
     date_end: 2023-05-01
@@ -91,7 +91,7 @@ work:
       Responsibilities include:
       - Data collection
       - Literature review
-  - position: Data Analyst intern
+  - position: Data Analyst Intern
     company_name: Vamos Pasajes
     company_url: ''
     company_logo: ''
