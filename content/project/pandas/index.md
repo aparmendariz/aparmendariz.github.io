@@ -1,6 +1,6 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Harm Reduction
+date: 2024-02-01
 external_link: https://github.com/pandas-dev/pandas
 tags:
   - Hugo
