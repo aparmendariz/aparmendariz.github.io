@@ -66,7 +66,7 @@ sections:
    # content:
    #   title: Recent & Upcoming Talks
    #   filters:
-      #  folders:
+   #   #  folders:
   #        - event
   #  design:
   #    view: article-grid
