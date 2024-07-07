@@ -51,56 +51,55 @@ education:
     institution: University of St Gallen
     date_start: 2024-08-01
     date_end: 2027-08-01
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: Msc Data Analytics and Economics
     institution: University of Fribourg
     date_start: 2021-09-01
     date_end: 2023-05-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 5.35/6.0 (Magna Cum Laude)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Economics
     institution: Universidad de las Americas
     date_start: 2017-09-01
     date_end: 2021-08-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.7/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Innovation Lab Officer
+    company_name: University of Applied Sciences Fribourg
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data collection
+      - Literature review
+  - position: Research Assistant
+    company_name: University of Fribourg
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2022-09-01
+    summary: |2-
+      Responsibilities include:
+      - Data collection
+      - Literature review
   - position: Data Analyst intern
-    company_name: X
+    company_name: Vamos Pasajes
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Monthly reports of key KPIs.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -111,30 +110,22 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 80
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
 
 languages:
   - name: Spanish
