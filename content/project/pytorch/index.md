@@ -1,13 +1,11 @@
 ---
-title: Sensitivity Analysis
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Overfitting in Policy Learning
+date: 2024
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+
 ---
 
-My second project focuses on developing a sensitivity analysis tool for the applied researcher.
+My second reserach project aims to detect and provide solutions for overfitting in Policy Learning.
 
 <!--more-->
