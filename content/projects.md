@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I am working on during my PhD.
+      text: Here is a selection of projects that I am working on during my PhD.
       filters:
         folders:
           - project
