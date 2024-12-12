@@ -1,12 +1,11 @@
 ---
-title: Harm Reduction
+title: Impact of DRCs on health and crime
 date: 2024-02-01
-external_link: https://github.com/pandas-dev/pandas
+external_link: 
 tags:
-  - Wowchemy
-  - Markdown
+
 ---
 
-Project on the impact of harm reduction strategies on health and criminal outcomes.
+My single-author project aims to estimate the causal impact of Drug Consumption Rooms in Switzerland on health and criminal outcomes.
 
 <!--more-->
