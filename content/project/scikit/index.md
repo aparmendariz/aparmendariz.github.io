@@ -1,13 +1,11 @@
 ---
-title: SUTVA
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Sensitivity Analysis
+date: 2024
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+My second project focuses on developing a sensitivity analysis tool for the applied researcher.
 
 <!--more-->
