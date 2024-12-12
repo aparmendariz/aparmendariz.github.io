@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+My second project focuses on developing a sensitivity analysis tool for the applied researcher.
 
 <!--more-->
