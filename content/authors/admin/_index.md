@@ -171,4 +171,4 @@ awards:
 
 ## About Me
 
-I am a PhD candidate in Econometrics with a strong background in Data Analytics (MSc). My research specializes in causal inference, particularly through Causal Machine Learning and Applied Econometrics. I am focused on developing methods to identify and quantify causal effects
+I am a PhD candidate in Econometrics with a background in Data Analytics (MSc). My research specializes in causal inference, particularly through Causal Machine Learning and Applied Econometrics. I am focused on developing methods to identify and quantify causal effects
