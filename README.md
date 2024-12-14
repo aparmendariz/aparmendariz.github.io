@@ -14,4 +14,4 @@ I am currently a PhD student at the University of St. Gallen, specializing in ca
 
 ## Contact
 
-Feel free to reach out to me via [email](anapaula.armendarizpacheco@unisg.ch) or [LinkedIn] (https://www.linkedin.com/in/ana-armendariz-pacheco)
+Feel free to reach out to me via [email](anapaula.armendarizpacheco@unisg.ch) or [LinkedIn](https://www.linkedin.com/in/ana-armendariz-pacheco)
