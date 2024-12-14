@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Projects
       text: Here is a selection of projects that I am working on during my PhD.
       filters:
         folders:
