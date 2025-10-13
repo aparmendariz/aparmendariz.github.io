@@ -11,7 +11,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Pythonb</li>
+	<li>Python</li>
 	<li>R</li>
 	<li>Stata</li>
 	<li>SQL</li>
