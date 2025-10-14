@@ -8,12 +8,4 @@ layout: page
 
 <p> I enjoy learning languages, swimming and learning new skills.</p>
 
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>Python</li>
-	<li>R</li>
-	<li>Stata</li>
-	<li>SQL</li>
-	<li>Git</li>
-</ul>
