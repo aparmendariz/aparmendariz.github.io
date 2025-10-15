@@ -10,7 +10,7 @@ layout: page
 <h2>Working papers</h2>
 
 <ul>
-	<li><i>Impact Evaluation of Drug Consumption Rooms on Health and Criminal Outcomes.</li>
+	<li>Impact Evaluation of Drug Consumption Rooms on Health and Criminal Outcomes.</li>
 </ul>
 
 <h2>Ongoing work</h2>
