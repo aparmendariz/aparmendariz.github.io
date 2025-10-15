@@ -7,21 +7,14 @@ layout: page
     ul li { margin-bottom: 10px; }
 </style>
 
-<h2>Working papers</h2>
+<h2>Python Projects</h2>
 
 <ul>
-	<li><i>Impact Evaluation of Drug Consumption Rooms on Health and Criminal Outcomes.</li>
+  <li><i>Modified Causal Forest (mcf).</i> Developed documentation and testing frameworks for <a href="https://mcfpy.github.io/mcf/">mcf</a>, a Python package for causal machine learning, during my work at the Swiss Institute for Empirical Economic Research (2023–present).</li>
 </ul>
 
-<h2>Ongoing work</h2>
+<h2>Apps and Data Tools</h2>
 
 <ul>
-	<li><i>Testing Effect Heterogeneity and Confounding in High-Dimensional Experimental and Observational Studies.</i>, 2025, jointly with Martin Huber.</li>
-	<li><i>Placebo-based Diagnostics for Heterogeneous Treatment Effects.</i>, 2025, jointly Linda Odermatt, Michael Lechner & Jana Mareckova.</li>
-</ul>
-
-<h2>Obtained Funding</h2>
-
-<ul>
-	<li>PhD Project Fund from the Swiss Society of Health Economics (June 2025}.</li>
+  <li><i>Innovation Lab Startup App.</i> Designed and developed a mobile app to monitor startups affiliated with the Innovation Lab at Fribourg School of Management (2022–2023). <a href="https://app.innolabfribourg.ch/#mobile-apps">View app</a>.</li>
 </ul>
