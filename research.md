@@ -24,4 +24,5 @@ layout: page
 
 <ul>
 	<li>PhD Project Fund from the Swiss Society of Health Economics (June 2025}.</li>
+	<li>Mobility grant for doctoral students of HSG (February to July 2026}.</li>
 </ul>
