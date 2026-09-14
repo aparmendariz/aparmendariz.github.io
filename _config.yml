@@ -1,6 +1,6 @@
 # main text of home
 title: Ana Armendariz
-bio: PhD Candidate at the University of St Gallen
+bio: PhD Candidate in Econometrics, University of St Gallen
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/Industry_CV_2026.pdf
+resume-url: assets/CV_AnaArmendariz.pdf
 
 url: https://aparmendariz.github.io
 # your url: https://USERNAME.github.io
@@ -44,7 +44,7 @@ email: anapaulaarmendariz99@gmail.com
 authors:
   johndoe:
     name: Ana Armendariz
-    bio: I am a PhD Candidate in Economics & Econometrics at the University of St Gallen, Switzerland.
+    bio: PhD Candidate in Economics & Econometrics at the University of St Gallen, working on causal inference, treatment effect estimation and policy learning.
     external-image: false
     picture: assets/images/photo_ana_copy_2025.jpg
     # twitter: johndoe
