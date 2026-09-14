@@ -7,7 +7,8 @@ layout: page
 
 <p>
 I am a PhD Candidate in Economics & Econometrics at the University of St. Gallen, where I work at the Swiss Institute for Empirical Economic Research under the supervision of Prof. Michael Lechner. 
-My research focuses on <b>causal inference, causal machine learning, and health economics</b>. 
+My research focuses on <b>causal inference, causal machine learning, policy learning, and health economics</b>. 
+In spring 2026 I was a visiting PhD researcher at the Universidad Autónoma de Madrid, funded by an SNSF DocMobility Grant.
 </p>
 
 <p>
