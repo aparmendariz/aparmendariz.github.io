@@ -6,7 +6,7 @@ layout: page
 
 
 <p>
-I am a PhD Candidate in Economics &amp; Econometrics at the University of St. Gallen, based at the Swiss Institute for Empirical Economic Research (SEW) and supervised by Prof. Michael Lechner. I expect to graduate in July 2027.
+I am a PhD Candidate in Economics &amp; Econometrics at the University of St. Gallen, based at the Swiss Institute for Empirical Economic Research (SEW) and supervised by Prof. Michael Lechner. I will be on the 2026/2027 job market. 
 My research is on <b>causal inference, treatment effect estimation, and policy learning</b>, with applications in <b>health economics</b>.
 </p>
 
