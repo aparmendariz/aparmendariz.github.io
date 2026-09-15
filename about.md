@@ -17,7 +17,3 @@ My job market paper, <a href="{{ site.url }}/assets/Armendariz_JMP.pdf" target="
 <p>
 In spring 2026 I was a visiting researcher at the Universidad Autónoma de Madrid, funded by an SNSF DocMobility Grant. I hold a Master in Data Analytics and Economics from the University of Fribourg and a Bachelor in Economics from the Universidad de las Américas, Ecuador. At SEW I contribute to the <a href="https://mcfpy.github.io/mcf/">mcf</a> Python package and teach Causal Machine Learning and Microeconometrics.
 </p>
-
-<p>
-I speak Spanish, English, French, and Russian, and I am learning German.
-</p>
