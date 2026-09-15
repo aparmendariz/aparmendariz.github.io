@@ -17,29 +17,7 @@ layout: page
 <h2>Work in progress</h2>
 
 <ul>
-	<li><i>Overfitting in Policy Learning.</i> With Michael Lechner &amp; Jana Marečková.<br>We propose a method to detect overfitting in policy learning models and develop tools to help applied researchers mitigate this issue.</li>
-	<li><i>Placebo-based Diagnostics for Heterogeneous Treatment Effects.</i> With Linda Odermatt, Michael Lechner &amp; Jana Marečková.<br>We develop a sensitivity analysis tool for applied researchers which makes minimal parametric assumptions.</li>
-</ul>
-
-<h2>Conferences and presentations</h2>
-
-<ul>
-	<li><b>2026:</b> EuHEA Conference (Rotterdam) &middot; IAAE Annual Conference, session chair (Portugal) &middot; 3rd Workshop on the Economics of Health and Human Capital (Madrid) &middot; CSS Health Economics Workshop (Lucerne) &middot; Congress of the Asociación de Economía del Ecuador (Quito) &middot; Research Seminar, Department of Economic Analysis: Theory and History, Universidad Autónoma de Madrid &middot; Health Economics of Risky Health Behavior (HERB) Workshop, University of Bologna</li>
-</ul>
-
-<h2>Awards and grants</h2>
-
-<ul>
-	<li>SNSF DocMobility Grant, Swiss National Science Foundation (October 2025). Funded a six-month research visit to the Universidad Autónoma de Madrid, February to July 2026.</li>
-	<li>PhD Project Fund, Swiss Society of Health Economics (June 2025).</li>
-	<li>Aschinger Prize for Latin American Academic Achievement, University of Fribourg (September 2023).</li>
-	<li>José Corsino Cárdenas Research Prize (second place), Central Bank of Ecuador (April 2021).</li>
-	<li>Summer School Scholarship, Yale University (August 2019).</li>
-</ul>
-
-<h2>Additional training</h2>
-
-<ul>
-	<li>Machine Learning for Treatment Effects and Structural Equation Models, Study Center Gerzensee (August 2024).</li>
-	<li>Winter School in Data Analytics &amp; Machine Learning, University of Fribourg (February 2022).</li>
+	<li><i>When Do Common Trends and Unconfoundedness Agree? An Overidentification Test Across Studies.</i> With Martin Huber.<br>Applied economists with panel data must often choose between difference-in-differences, which relies on parallel trends, and selection on observables, which relies on unconfoundedness. We use a Hausman-type overidentification test with machine-learning-based covariate control to assess whether the two strategies are jointly consistent, and apply it to the outcomes of 25 published DiD studies spanning labor, health, development, trade, and political economy.</li>
+	<li><i>Precisely Zero: Migration's Null Effect on Crime.</i> With Riccardo Ciacci.<br>We examine the effect of migration on crime in Switzerland between 2009 and 2025, leveraging the quasi-random allocation of asylum seekers across cantons and detailed administrative data. We find precisely estimated null effects on overall, sex, violent, and property crime, human trafficking, and unauthorized prostitution, robust across migrant statuses, defendant nationalities, and crime specifications.</li>
+	<li><i>Overfitting in Policy Learning.</i> With Michael Lechner, Jana Marečková &amp; Linda Odermatt.<br>We propose a method to detect overfitting in policy learning models and develop tools to help applied researchers mitigate this issue.</li>
 </ul>
