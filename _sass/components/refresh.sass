@@ -1,0 +1,279 @@
+// Visual refresh: larger type, wider column, warmer palette, card lists.
+// Imported last so it overrides the base theme.
+
+// ---------- layout & type ----------
+.wrapper-large
+    max-width: 1080px
+
+body
+    font-family: $fontSans
+    font-size: 18px
+    color: $alpha
+    background: $omega
+    -webkit-font-smoothing: antialiased
+
+h1, h2, h3, h4
+    font-family: $fontDisplay
+    font-weight: 600
+    letter-spacing: -0.01em
+
+h1
+    font-size: 3.6rem
+
+h2
+    font-size: 2.7rem
+    margin: 4.4rem 0 1.8rem
+    padding-bottom: 0.6rem
+    position: relative
+
+    &:after
+        content: ""
+        display: block
+        width: 44px
+        height: 3px
+        border-radius: 2px
+        background: $delta
+        margin-top: 0.8rem
+
+h3
+    font-size: 2.2rem
+
+p
+    font-size: 1.8rem
+    line-height: 1.75
+    font-weight: 400
+    letter-spacing: 0
+    color: $alpha
+
+ul, ol
+    li
+        font-size: 1.8rem
+        line-height: 1.7
+        font-weight: 400
+        color: $alpha
+
+strong, b
+    font-weight: 600
+    color: $beta
+
+a
+    color: $delta
+    font-weight: 500
+    text-decoration: underline
+    text-decoration-thickness: 1px
+    text-underline-offset: 3px
+    text-decoration-color: rgba($delta, .45)
+    transition: color .15s ease, text-decoration-color .15s ease
+
+    &:hover
+        color: $accent-deep
+        text-decoration-color: $accent-deep
+
+// ---------- header ----------
+.header-home
+    > .link > .selfie
+        width: 190px
+        height: 190px
+        margin-bottom: 28px
+        object-fit: cover
+        border: 5px solid $card
+        box-shadow: 0 0 0 3px $delta, 0 14px 30px -12px rgba(0,0,0,.35)
+        transition: transform .25s ease, box-shadow .25s ease
+
+        &:hover
+            transform: translateY(-2px)
+            box-shadow: 0 0 0 3px $accent-deep, 0 18px 34px -12px rgba(0,0,0,.4)
+            opacity: 1
+
+    > .title
+        font-family: $fontDisplay
+        font-size: 5.2rem
+        font-weight: 600
+        letter-spacing: -0.02em
+        margin: 0 0 10px
+
+    > .description
+        font-family: $fontSans
+        font-size: 2.1rem
+        font-weight: 400
+        letter-spacing: 0
+        line-height: 1.5
+        color: $gama
+        margin: 0 auto 26px
+        padding-bottom: 0
+
+        &:after
+            content: none
+
+.social-links
+    > .link
+        height: 44px
+        width: 44px
+        line-height: 44px
+        font-size: 2rem
+        border-radius: 50%
+        transition: background .15s ease, color .15s ease
+        color: $beta
+
+        &:hover
+            background: $accent-soft
+            color: $delta
+
+// ---------- nav ----------
+.nav, .nav-home
+    > .list > .item > .link
+        font-family: $fontSans
+        font-size: 1.7rem
+        font-weight: 500
+        color: $beta
+        text-decoration: none
+        padding: 8px 16px
+        border-radius: 999px
+        transition: background .15s ease, color .15s ease
+
+        &:hover
+            background: $accent-soft
+            color: $accent-deep
+
+.nav
+    top: 14px
+    right: 10px
+
+    > .list > .item > .link
+        font-size: 1.6rem
+        padding: 8px 14px
+        margin: 0 2px
+
+.nav-home
+    margin-top: 34px
+
+    > .list > .item > .link
+        font-size: 1.9rem
+        width: auto
+        padding: 9px 20px
+        margin: 0 3px
+
+// ---------- content pages ----------
+.page
+    margin-top: 110px
+
+.about
+    img
+        width: 240px
+        height: 240px
+        object-fit: cover
+        border-radius: 50%
+        border: 5px solid $card
+        box-shadow: 0 0 0 3px $delta, 0 14px 30px -12px rgba(0,0,0,.35)
+        margin: 0 auto 40px
+
+    p
+        max-width: 78ch
+        margin-left: auto
+        margin-right: auto
+
+// Paper / project lists rendered as cards
+.papers
+    list-style: none
+    padding: 0
+    margin: 0 0 3rem
+
+    > li
+        background: $card
+        border: 1px solid $epsilon
+        border-left: 4px solid $delta
+        border-radius: 10px
+        padding: 20px 24px
+        margin-bottom: 16px
+        box-shadow: 0 6px 18px -14px rgba(0,0,0,.25)
+        transition: transform .15s ease, box-shadow .15s ease
+
+        &:hover
+            transform: translateY(-2px)
+            box-shadow: 0 14px 28px -16px rgba(0,0,0,.35)
+
+    .paper-title
+        display: block
+        font-family: $fontDisplay
+        font-size: 2.1rem
+        font-weight: 600
+        color: $beta
+        line-height: 1.35
+        margin-bottom: 6px
+
+    .paper-meta
+        display: flex
+        flex-wrap: wrap
+        align-items: center
+        gap: 8px 12px
+        font-size: 1.55rem
+        color: $gama
+        margin-bottom: 10px
+
+    .paper-abstract
+        margin: 0
+        font-size: 1.65rem
+        line-height: 1.65
+        color: $alpha
+
+.tag
+    display: inline-block
+    font-size: 1.25rem
+    font-weight: 600
+    letter-spacing: .04em
+    text-transform: uppercase
+    color: $accent-deep
+    background: $accent-soft
+    border-radius: 999px
+    padding: 3px 10px
+
+.btn
+    display: inline-block
+    font-size: 1.4rem
+    font-weight: 600
+    color: $card
+    background: $delta
+    text-decoration: none
+    border-radius: 999px
+    padding: 4px 14px
+    transition: background .15s ease, transform .15s ease
+
+    &:hover
+        background: $accent-deep
+        color: $card
+        text-decoration: none
+        transform: translateY(-1px)
+
+// ---------- footer ----------
+.footer-main
+    font-size: 1.4rem
+    margin-top: 60px
+
+// ---------- responsive ----------
+@media #{$below}
+    body
+        font-size: 17px
+
+    .header-home
+        > .link > .selfie
+            width: 150px
+            height: 150px
+
+        > .title
+            font-size: 4rem
+
+        > .description
+            font-size: 1.8rem
+
+    .page
+        margin-top: 90px
+
+    .about img
+        width: 190px
+        height: 190px
+
+    .papers > li
+        padding: 16px 18px
+
+    .papers .paper-title
+        font-size: 1.9rem
