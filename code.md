@@ -18,5 +18,5 @@ layout: page
 <h2>Apps and Data Tools</h2>
 
 <ul>
-  <li><i>Innovation Lab Startup App.</i> Designed and developed a mobile app to monitor startups affiliated with the Innovation Lab at Fribourg School of Management (2022–2023). <a href="https://app.innolabfribourg.ch/#mobile-apps">View app</a>.</li>
+  <li><i>Innovation Lab Startup App.</i> Designed and developed a mobile app to monitor startups affiliated with the Innovation Lab at Fribourg School of Management (2022–2023).</li>
 </ul>
