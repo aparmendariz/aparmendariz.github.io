@@ -9,7 +9,7 @@ layout: page
 	<li>
 		<span class="paper-title">Do Drug Consumption Rooms Reduce Drug-Related Hospitalizations? Evidence from Switzerland</span>
 		<div class="paper-meta"><span class="tag">Job Market Paper</span><span>Single author</span><a class="btn" href="{{ site.url }}/assets/Armendariz_JMP.pdf" target="_blank">PDF</a></div>
-		<p class="paper-abstract">This paper estimates the causal effect of drug consumption room openings on drug-related hospitalizations in Switzerland, exploiting their staggered introduction across Swiss cities between 1998 and 2022 with individual-level hospital records and a difference-in-differences design. Openings reduce drug-related hospitalizations by roughly 35% within 5 km of a facility, with the largest reductions in fatal outcomes. Funded by the Swiss Society of Health Economics.</p>
+		<p class="paper-abstract">This paper estimates the causal effect of drug consumption room openings on drug-related hospitalizations in Switzerland, exploiting their staggered introduction across Swiss cities between 1998 and 2022 with individual-level hospital records and a difference-in-differences design. Openings reduce drug-related hospitalizations by roughly 35% within 5 km of a facility, with the largest reductions in fatal outcomes.</p>
 	</li>
 	<li>
 		<span class="paper-title">Testing Effect Homogeneity and Confounding in High-Dimensional Experimental and Observational Studies</span>
