@@ -1,11 +1,13 @@
 ---
-title: Projects
+title: Code
 layout: page
 ---
 
 <style>
     ul li { margin-bottom: 10px; }
 </style>
+
+<p>More on <a href="https://github.com/{{ site.github }}">GitHub</a>.</p>
 
 <h2>Python Projects</h2>
 
