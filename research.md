@@ -33,7 +33,7 @@ layout: page
 	</li>
 	<li>
 		<span class="paper-title">Overfitting in Policy Learning</span>
-		<div class="paper-meta"><span>With Michael Lechner, Jana Marečková &amp; Linda Odermatt</span></div>
+		<div class="paper-meta"><span>With Michael Lechner and Jana Mareckova</span></div>
 		<p class="paper-abstract">We propose a method to detect overfitting in policy learning models and develop tools to help applied researchers mitigate this issue.</p>
 	</li>
 </ul>
